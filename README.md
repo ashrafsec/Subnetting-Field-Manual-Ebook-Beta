@@ -42,4 +42,7 @@ https://www.tutorialspoint.com/ipv4/ipv4_quick_guide.htm <br/>
 https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html <br/>
 https://support.novell.com/techcenter/articles/nc1999_10c.html <br/>
 https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol <br/>
+https://erg.abdn.ac.uk/users/gorry/course/inet-pages/arp.html <br/>
+https://searchnetworking.techtarget.com/definition/Address-Resolution-Protocol-ARP <br/>
+
 
