@@ -39,3 +39,7 @@ http://www.rhyshaden.com/nat.htm <br/>
 https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/4606-8.html <br/>
 https://www.serverbrain.org/network-implementation-2003/the-hierarchical-ip-addressing-scheme.html <br/>
 https://www.tutorialspoint.com/ipv4/ipv4_quick_guide.htm <br/>
+https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-software-releases-121-mainline/12778-ping-traceroute.html <br/>
+https://support.novell.com/techcenter/articles/nc1999_10c.html <br/>
+https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol <br/>
+
