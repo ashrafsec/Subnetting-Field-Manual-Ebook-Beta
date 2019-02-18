@@ -33,3 +33,5 @@ https://www.webopedia.com/DidYouKnow/Internet/ipv6_ipv4_difference.html <br/>
 https://whatismyipaddress.com/private-ip <br/>
 https://www.lifewire.com/what-is-a-private-ip-address-2625970 <br/>
 http://docs.actian.com/vector/4.2/index.html#page/SQLLang/IP_Network_Address_Data_Types.htm <br/>
+https://en.wikipedia.org/wiki/Network_address_translation <br/>
+https://en.wikibooks.org/wiki/Communication_Networks/NAT_and_PAT_Protocols <br/>
