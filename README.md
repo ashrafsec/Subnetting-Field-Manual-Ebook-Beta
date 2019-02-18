@@ -45,5 +45,7 @@ https://support.novell.com/techcenter/articles/nc1999_10c.html <br/>
 https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol <br/>
 https://erg.abdn.ac.uk/users/gorry/course/inet-pages/arp.html <br/>
 https://searchnetworking.techtarget.com/definition/Address-Resolution-Protocol-ARP <br/>
-
+https://www.sqa.org.uk/e-learning/HardOSEss04CD/page_06.htm <br/>
+http://www.ccnablog.com/tcpip-and-the-osi-model/ <br/>
+https://www.geeksforgeeks.org/computer-network-tcpip-model/ <br/>
 
