@@ -37,3 +37,4 @@ https://en.wikipedia.org/wiki/Network_address_translation <br/>
 https://en.wikibooks.org/wiki/Communication_Networks/NAT_and_PAT_Protocols <br/>
 http://www.rhyshaden.com/nat.htm <br/>
 https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/4606-8.html <br/>
+https://www.serverbrain.org/network-implementation-2003/the-hierarchical-ip-addressing-scheme.html <br/>
