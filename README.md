@@ -23,4 +23,4 @@ https://www.oreilly.com/library/view/ip-routing/0596002750/ch05s04.html <br/>
 https://networklessons.com/cisco/ccna-routing-switching-icnd1-100-105/classful-vs-classless-routing-protocols <br/>
 https://www.vskills.in/certification/tutorial/router-support/classful-and-classless-routing/ <br/>
 https://learningnetwork.cisco.com/thread/34420 <br/>
-
+https://mashable.com/2011/02/03/ipv4-ipv6-guide/#sMfhoaueaOqb <br/>
