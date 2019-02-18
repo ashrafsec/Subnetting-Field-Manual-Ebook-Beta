@@ -24,3 +24,12 @@ https://networklessons.com/cisco/ccna-routing-switching-icnd1-100-105/classful-v
 https://www.vskills.in/certification/tutorial/router-support/classful-and-classless-routing/ <br/>
 https://learningnetwork.cisco.com/thread/34420 <br/>
 https://mashable.com/2011/02/03/ipv4-ipv6-guide/#sMfhoaueaOqb <br/>
+https://www.iplocation.net/public-vs-private-ip-address <br/>
+https://www.hotspotshield.com/resources/what-is-the-difference-between-public-and-private-ip-addresses/ <br/>
+https://www.comparitech.com/blog/vpn-privacy/ipv6-vs-ipv4/ <br/>
+https://thebestvpn.com/ipv4-vs-ipv6/ <br/>
+https://www.juniper.net/us/en/products-services/what-is/ipv4-vs-ipv6/ <br/>
+https://www.webopedia.com/DidYouKnow/Internet/ipv6_ipv4_difference.html <br/>
+https://whatismyipaddress.com/private-ip <br/>
+https://www.lifewire.com/what-is-a-private-ip-address-2625970 <br/>
+http://docs.actian.com/vector/4.2/index.html#page/SQLLang/IP_Network_Address_Data_Types.htm <br/>
