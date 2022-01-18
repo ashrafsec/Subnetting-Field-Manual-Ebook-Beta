@@ -9,6 +9,10 @@ interesting and concise manner. Happy reading!
 The ebook is in beta and is for free :D 
 This is to give back to the community
 
+
+## Disclaimer
+The author is not responsible for any loss of property or damages resulting from use of this book or its content.
+
 ## References
 Computer Networks by Andrew Tanenbaum and David Wetherall 5th Edition Prentice Hall/Pearson <br/>
 CCNA Routing and Switching Complete Study Guide by Todd Lammle 2nd Edition Wiley <br/>
