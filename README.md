@@ -13,6 +13,9 @@ This is to give back to the community
 ## Disclaimer
 The author is not responsible for any loss of property or damages resulting from use of this book or its content.
 
+## Errata
+There is an error in the ARP Request explanation
+
 ## References
 Computer Networks by Andrew Tanenbaum and David Wetherall 5th Edition Prentice Hall/Pearson <br/>
 CCNA Routing and Switching Complete Study Guide by Todd Lammle 2nd Edition Wiley <br/>
