@@ -11,7 +11,7 @@ This is to give back to the community
 
 
 ## Disclaimer
-The author is not responsible for any loss of property or damages resulting from use of this book or its content.
+This book is for educational purposes only. The author is not responsible for any loss of property or damages resulting from use of this book or its content.
 
 ## References
 Computer Networks by Andrew Tanenbaum and David Wetherall 5th Edition Prentice Hall/Pearson <br/>
